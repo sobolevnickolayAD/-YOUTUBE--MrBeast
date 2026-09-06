@@ -1,4 +1,4 @@
-# -YOUTUBE--MrBeast
+# Analysis of the dataset from the YouTube channel of the blogger MrBeast
 Цели проекта: 
 
 Цель 1. Понять, какие характеристики видео связаны с количеством просмотров  
